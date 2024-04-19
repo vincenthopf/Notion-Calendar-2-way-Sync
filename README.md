@@ -2,7 +2,7 @@
 
 Yet another script to synchronize events between Google Calendar and a Notion database.
 
-Based on [hk21702's Yet another Google calender notion 2 way snc](https://github.com/hk21702).
+Based on [hk21702's Yet another Google calender notion 2 way sync](https://github.com/hk21702).
 Ehanced intructions and code for better stability.
 
 Currently supports two-way event creation, deletion, and updating.
