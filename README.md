@@ -14,7 +14,7 @@ Currently supports two-way event creation, deletion, and updating.
 | Location | 🔀 Yes| Text |
 | Description | 🔀 Yes| Text |
 
-## For [setup instructions 🔰](https://github.com/hk21702/YA-GCal-Notion-Sync-Script/wiki/Setup-Instructions%F0%9F%94%B0) and FAQ, please go to the [wiki!](https://github.com/hk21702/YA-GCal-Notion-Sync-Script/wiki)
+## For [setup instructions](https://github.com/vincenthopf/Notion-Calendar-2-way-Sync/wiki/)
 
 ## Additional Info/Features
 
